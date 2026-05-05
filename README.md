@@ -24,7 +24,7 @@ Smart Document Scanner using AI + Computer Vision
 ### Frontend
 
 * Desktop (Tkinter)
-* Flutter (in progress)
+* Streamlit App 
 
 ---
 
@@ -57,12 +57,21 @@ python app.py
 
 ---
 
-## 📱 Flutter App
+## 🖥️ Streamlit Web App
 
-Coming soon...
+This project includes a full interactive web interface built with **Streamlit**.
 
+### ✨ What you can do:
+- Upload single or multiple images
+- Preview original & processed images
+- Apply multiple filters
+- Compare outputs
+- Export results as PDF
+
+### ▶️ Run the Streamlit App
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
 ---
 
-## 👨‍💻 Author
-
-Ahmed Bakhet
